@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyderdeve&label=Profile%20views&color=0e75b6&style=flat" alt="hyderdeve" /> </p>
 
-- 🔭 I’m currently working on [Just DSA LeetCode Problems Using Python 3.11] 
+- 🔭 I’m currently working on DSA LeetCode Problems Using Python 3.11 (Will Be Sharing Solutions Soon)
 
 - 🌱 I’m currently learning **DSA, Django, AI/ML**
 
