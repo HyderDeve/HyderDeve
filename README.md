@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on DSA LeetCode Problems Using Python 3.11 (Will Be Sharing Solutions Soon)
 
-- 🌱 I’m currently learning **DSA, Django, AI/ML**
+- 🌱 I’m currently learning **DSA, FastAPI, AI/ML**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/hyder757](linkedin.com/in/hyder757)
 
