@@ -38,51 +38,20 @@ Although I’ve made 90 contributions so far this year, my focus has been on **q
 </p>
 
 ---
-### 💻 Tech Stack
 
-<p align="left">
+### 💻 Tech Stack:
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
 
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-
-  <!-- Jupyter Notebook -->
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-</p>
 ---
 
 ### 📊 GitHub Stats
