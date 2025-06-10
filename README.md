@@ -14,12 +14,6 @@
 
 ---
 
-### 🧠 GitHub Activity Snapshot (2025)
-
-Although I’ve made 90 contributions so far this year, my focus has been on **quality learning and impactful commits**, especially during the months of **April to June**. I'm now aiming for **consistent contributions** moving forward.
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
